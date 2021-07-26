@@ -1,4 +1,4 @@
-# my-app
+# Sequencer Clock
 
 ## Project setup
 ```
